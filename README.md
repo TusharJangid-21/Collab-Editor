@@ -23,10 +23,11 @@ A real-time collaborative text editor built using **React**, **Socket.IO**, and 
 ### 🌘 Dark Mode
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fe851ddb-1099-4d14-bad4-a06e43051977" />
 
-```
+
 ---
 
 ## ⚙️ Tech Stack
+```
 
 | Frontend      | Backend           | Realtime         | Database |
 |---------------|-------------------|------------------|----------|
@@ -46,7 +47,8 @@ cd Collaborative-Editor
 
 ### 2. Install Dependencies
 
-```bash
+```
+bash
 # For client
 cd client
 npm install
@@ -58,7 +60,8 @@ npm install
 
 ### 3. Run the App
 
-```bash
+```
+bash
 # In /server
 npm run start
 
